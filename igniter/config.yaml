@@ -1,0 +1,2 @@
+start_command: "uvicorn main:app --host 0.0.0.0 --port"
+path: "C:\\Users\\neptu\\Documents\\Distribuidas\\Proyect\\I\\company_a_api"
